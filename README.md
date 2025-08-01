@@ -12,8 +12,7 @@
 
 ### 🎯 À propos de moi
 
-- 🎓 Diplômé ingénieur en informatique (2024 – ESPRIT)
-- 🔍 À la recherche de ma première opportunité professionnelle
+- 🎓 Diplômé ingénieur en informatique (ESPRIT)
 - 💡 Passionné par le **développement web Full Stack**, l’**intelligence artificielle** et le **DevOps**
 - 🛠️ J'aime construire des solutions robustes avec **Spring Boot**, **Angular**, **React**, **Node.js**
 - 🌍 Basé à **Bizerte, Tunisie**
