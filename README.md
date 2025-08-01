@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-
 <h1 align="center">👋 Bonjour, je suis Hamza Abda</h1>
 <h3 align="center">Ingénieur en génie logiciel passionné par le développement Full Stack & DevOps</h3>
 
@@ -87,7 +85,11 @@
 
 ### 🚀 Projets phares
 
-*(garde ici les projets déjà mentionnés, tu peux les développer plus tard si tu veux)*
+- **Parsing de CV (PFE)** – OCR + IA + Spring Boot + Angular + PostgreSQL  
+- **Projet DevOps** – Jenkins, Docker, Kubernetes, Grafana, SonarQube, Snyk  
+- **Mobility App** – Spring Boot + AngularJS + MySQL  
+- **Facturation** – JavaFX, Symfony, CodeNameOne, MySQL  
+- **Stage Full-Stack** – React, Node.js, MongoDB
 
 ---
 
@@ -103,6 +105,7 @@
 
 > ✨ _"La technologie, c’est magique quand elle est bien maîtrisée."_  
 > — Hamza Abda
+
 
 
 
